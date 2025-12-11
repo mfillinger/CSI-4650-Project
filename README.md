@@ -23,4 +23,7 @@ The dataset used (train.csv) contains real-world environmental feature data, whi
 
 4. View the results in the terminal
    The script will show
-   ''bash
+   -CPU execution time
+   -GPU execution time (if CUDA is available)
+   -Speedup comparison
+   -A warning if GPU acceleration is not supported on the system
